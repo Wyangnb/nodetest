@@ -21,7 +21,7 @@
 }
 
 .HomePage {
-  background: url("../img/home_bag.jpeg");
+  background: url("../../assets/img/home_bag.jpeg");
   height: 100vh;
   background-size: 100% 105%;
   display: flex;
@@ -87,7 +87,7 @@
   width: 100%;
   height: 100vh;
   display: flex;
-  background: url("../img/car_bag.jpeg");
+  background: url("../../assets/img/car_bag.jpeg");
   background-size: 100% 100%;
   color: #fadec9;
   justify-content: center;
